@@ -110,3 +110,6 @@ nexus-foundry-os/
 ├── docker/          # Containerization scripts
 └── docs/            # Architecture diagrams & design specs
 ```
+
+## Architecture:
+![Description](final.png)
