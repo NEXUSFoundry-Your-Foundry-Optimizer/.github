@@ -24,7 +24,7 @@ Unlike traditional dashboards, NEXUS addresses the human element of manufacturin
 > **Operator:** *"How will today's 5% humidity spike affect our scrap rate during the pouring phase?"*  
 > **NEXUS:** *"Based on historical logs and current sensor data, humidity above 4% increases gas porosity risk by 12%. Recommendation: Increase degassing duration by 45 seconds."*
 
-## 🛠 Core Features
+## Core Features
 
 - **3D Visual Twin**  
   Real-time 3D visualization of furnace health and molding lines using **Three.js** and **React Three Fiber**.
