@@ -34,6 +34,9 @@ The platform is designed as a production-style simulation and intelligence syste
 
 ---
 
+## Live Website Demo
+[Nexus Foundry Website](https://nexus-foundry-frontend.onrender.com/)
+
 ## Why This Project Exists
 
 The foundry process is interconnected across several physical stages:
