@@ -55,8 +55,8 @@ NEXUS-Foundry closes that gap by synchronizing state across stages, capturing ca
 ---
 
 ## End-to-End System Architecture
-## 
-![Description](Arch(3).png)
+
+![NEXUS-Foundry System Architecture](./Arch%20(3).png)
 
 The platform follows a layered cyber-physical architecture:
 
